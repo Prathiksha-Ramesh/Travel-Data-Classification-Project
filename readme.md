@@ -37,11 +37,12 @@ The dataset used in this project, `Travel.csv`, contains various features relate
 ## Models and Evaluation
 Two models are evaluated in this project:
 
-1. Random Forest Classifier
+- Random Forest Classifier
 
 The ROC curve for this model is saved as `auc.png`.
 This model's performance is evaluated by its area under the ROC curve (AUC).
-AdaBoost Classifier
+
+- AdaBoost Classifier
 
 The ROC curve for this model is saved as `auc_adaboost.png`.
 Like the Random Forest model, this classifier is evaluated by its AUC.
